@@ -1,2 +1,2 @@
-data/raw/
-data/transformed/
+data/
+.DS_Store
