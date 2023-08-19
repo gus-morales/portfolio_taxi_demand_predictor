@@ -10,8 +10,8 @@ The notebook structure is as follow:
 
 - `02_transform_raw_data_into_ts`:
 
-- `03a_feature_eng`:
+- `03a_feature_eng_1`:
 
-- `03b_feature_eng`:
+- `03b_feature_eng_2`:
 
 - `04_traning`:
